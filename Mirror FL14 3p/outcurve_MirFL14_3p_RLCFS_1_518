@@ -1,0 +1,391 @@
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+  mag. axis not enclosed by bndry; trying again
+ Average elongation = 1.1905E+00
+ Raxis =   1.4236E+00 Zaxis =   1.1558E-04
+ Number of Theta Points Matched =   800
+ Number of Phi Planes =    50
+ Max Poloidal Mode Number =    31
+ Max Toroidal Mode Number =    49
+
+                  Fitting toroidal plane #   1
+
+ RAXIS =  1.424E+00 ZAXIS =  1.156E-04 R10 =  2.405E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       1.875E-01       8.387E-01     23.37      31  1.00E+00
+     250       6.831E-02       1.153E-01      5.30       9  9.08E-01
+     500       3.093E-02       8.640E-02     10.94      16  8.63E-01
+     750       1.995E-01       1.332E+00     17.05      23  8.21E-01
+    1000       1.996E-02       5.285E-02     18.80      30  7.05E-01
+    1250       1.868E-02       9.715E-05     20.12      31  6.70E-01
+    1500       1.863E-02       1.638E-05     19.82      31  6.70E-01
+    1750       1.856E-02       4.270E-05     19.34      31  6.70E-01
+    2000       1.851E-02       3.323E-05     19.21      31  6.70E-01
+    2250       1.844E-02       2.072E-05     18.94      31  6.70E-01
+    2500       1.840E-02       1.827E-05     18.88      31  6.70E-01
+    2750       1.837E-02       1.399E-05     18.84      31  6.70E-01
+    3000       1.834E-02       1.613E-05     18.81      31  6.70E-01
+    3240       1.830E-02       9.984E-06     18.94      31  6.70E-01
+
+                  Fitting toroidal plane #   2
+
+ RAXIS =  1.421E+00 ZAXIS =  2.309E-02 R10 =  2.504E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       6.718E-02       6.578E-01     20.09      31  1.00E+00
+     250       1.811E-02       1.903E-02     10.69      24  9.55E-01
+     488       3.228E-04       9.700E-06      8.05      31  9.55E-01
+
+                  Fitting toroidal plane #   3
+
+ RAXIS =  1.415E+00 ZAXIS =  4.543E-02 R10 =  2.290E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       2.579E-01       1.914E+00     21.34      31  1.00E+00
+     250       2.065E-01       5.140E-02      4.55       7  9.55E-01
+     500       1.082E-01       1.893E-01      6.41      10  8.86E-01
+     750       5.586E-02       2.888E-01      8.96      15  8.21E-01
+    1000       4.628E-02       2.082E-01     11.22      21  7.42E-01
+    1250       4.056E-02       3.417E-02     14.31      26  7.05E-01
+    1500       3.817E-02       1.233E-01     17.25      27  7.05E-01
+    1750       3.782E-02       6.265E-02     17.16      31  6.54E-01
+    2000       3.635E-02       5.628E-02     18.91      31  6.54E-01
+    2250       2.608E-02       1.723E-01     21.77      31  6.54E-01
+    2500       1.999E-02       3.010E-04     21.86      31  6.37E-01
+    2750       1.881E-02       1.183E-04     22.36      31  6.37E-01
+    3000       1.874E-02       2.190E-04     22.49      31  6.37E-01
+    3250       1.861E-02       1.888E-04     22.67      31  6.37E-01
+    3500       1.782E-02       9.158E-05     23.71      31  6.37E-01
+    3750       1.656E-02       1.909E-04     24.74      31  6.37E-01
+    4000       1.168E-02       2.781E-04     25.00      31  6.37E-01
+    4250       1.111E-02       2.098E-04     24.45      31  6.37E-01
+    4500       1.006E-02       1.668E-04     24.01      31  6.37E-01
+    4750       1.053E-02       4.207E-02     23.95      31  6.37E-01
+    5000       1.769E-02       1.662E-04     23.88      31  6.21E-01
+    5250       1.341E-02       9.861E-04     25.13      31  6.21E-01
+    5500       1.153E-02       2.134E-04     24.86      31  6.21E-01
+    5750       1.088E-02       2.422E-04     24.27      31  6.21E-01
+    6000       9.780E-03       2.199E-04     23.95      31  6.21E-01
+    6250       9.505E-03       2.730E-02     23.98      31  6.21E-01
+    6500       8.913E-03       1.847E-04     23.98      31  6.06E-01
+    6750       8.646E-03       1.477E-04     23.98      31  6.06E-01
+    7000       8.396E-03       7.111E-03     23.96      31  6.06E-01
+    7250       8.858E-03       2.549E-02     23.90      31  6.06E-01
+    7500       8.337E-03       1.384E-04     23.96      31  5.91E-01
+    7750       8.058E-03       1.255E-04     23.88      31  5.91E-01
+    8000       7.558E-03       1.150E-04     23.69      31  5.91E-01
+
+                  Fitting toroidal plane #   4
+
+ RAXIS =  1.404E+00 ZAXIS =  6.657E-02 R10 =  2.483E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       8.614E-02       6.018E-01     24.18      31  1.00E+00
+     250       2.700E-02       9.572E-02     20.43      25  9.55E-01
+     475       3.415E-04       8.834E-06      8.20      31  9.55E-01
+
+                  Fitting toroidal plane #   5
+
+ RAXIS =  1.389E+00 ZAXIS =  8.586E-02 R10 =  2.194E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       3.357E-01       4.116E+00     22.32      31  1.00E+00
+     250       1.004E-01       6.364E-01      4.62       8  9.55E-01
+     500       3.391E-02       9.538E-02      7.98      13  9.08E-01
+     750       1.873E-02       3.082E-02     10.48      17  8.21E-01
+    1000       2.053E-02       5.326E-02     13.09      21  7.80E-01
+    1250       1.303E-02       4.666E-02     14.30      25  7.05E-01
+    1500       1.255E-02       4.532E-02     17.78      30  6.54E-01
+    1750       1.028E-02       6.377E-05     19.50      31  6.37E-01
+    2000       9.695E-03       4.488E-05     19.54      31  6.37E-01
+    2250       9.415E-03       3.548E-05     19.61      31  6.37E-01
+    2500       9.303E-03       1.114E-05     19.55      31  6.37E-01
+    2605       9.274E-03       9.994E-06     19.48      31  6.37E-01
+
+                  Fitting toroidal plane #   6
+
+ RAXIS =  1.371E+00 ZAXIS =  1.028E-01 R10 =  2.461E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       8.132E-02       6.114E-01     23.77      31  1.00E+00
+     250       2.781E-02       4.271E-02     18.52      24  9.55E-01
+     500       3.697E-04       9.907E-06      8.51      31  9.55E-01
+
+                  Fitting toroidal plane #   7
+
+ RAXIS =  1.351E+00 ZAXIS =  1.173E-01 R10 =  2.315E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       2.357E-01       1.225E+00     20.73      31  1.00E+00
+     250       1.489E-02       5.589E-02      2.37       8  9.55E-01
+     500       4.139E-03       7.520E-03      8.50      22  9.80E-01
+     716       4.171E-04       9.859E-06      8.21      31  9.55E-01
+
+                  Fitting toroidal plane #   8
+
+ RAXIS =  1.328E+00 ZAXIS =  1.289E-01 R10 =  2.430E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       6.853E-02       6.536E-01     19.10      31  1.00E+00
+     250       1.169E-02       1.613E-02      7.89      24  9.55E-01
+     484       3.995E-04       9.287E-06      8.63      31  9.55E-01
+
+                  Fitting toroidal plane #   9
+
+ RAXIS =  1.303E+00 ZAXIS =  1.376E-01 R10 =  2.214E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       2.234E-01       8.864E-01     22.91      31  1.00E+00
+     250       5.743E-02       5.784E-02      5.90      10  8.63E-01
+     500       8.122E-03       6.683E-02     10.31      18  8.63E-01
+     750       2.373E-03       1.633E-02     12.67      31  8.63E-01
+     847       7.195E-04       8.073E-06     12.81      31  8.63E-01
+
+                  Fitting toroidal plane #  10
+
+ RAXIS =  1.278E+00 ZAXIS =  1.433E-01 R10 =  2.386E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       5.846E-02       6.411E-01     16.02      31  1.00E+00
+     250       8.329E-04       2.444E-03      9.51      31  9.55E-01
+     325       4.211E-04       8.885E-06      8.47      31  9.55E-01
+
+                  Fitting toroidal plane #  11
+
+ RAXIS =  1.253E+00 ZAXIS =  1.462E-01 R10 =  1.126E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       1.132E+00       1.597E+01     21.88      31  1.00E+00
+     250       1.287E-01       4.325E-01      3.75       7  9.08E-01
+     500       9.044E-02       3.183E-01      5.01      11  8.63E-01
+     750       6.946E-02       2.942E-02      8.39      15  8.00E-01
+    1000       5.071E-02       5.753E-01     11.75      19  7.80E-01
+    1250       2.354E-02       3.724E-02     13.70      23  7.42E-01
+    1500       2.244E-02       1.946E-01     15.07      27  7.05E-01
+    1750       2.599E-02       2.945E-01     17.18      30  6.88E-01
+    2000       1.015E-02       5.753E-02     17.77      31  6.70E-01
+    2250       9.831E-03       5.677E-02     18.16      31  6.70E-01
+    2500       9.102E-03       4.075E-02     18.34      31  6.70E-01
+    2750       8.273E-03       6.022E-05     18.56      31  6.70E-01
+    3000       8.240E-03       3.639E-05     18.56      31  6.54E-01
+    3250       7.759E-03       5.196E-05     18.56      31  6.54E-01
+    3500       7.550E-03       1.585E-04     18.60      31  6.54E-01
+    3750       7.505E-03       7.416E-05     18.60      31  6.54E-01
+    4000       7.462E-03       1.388E-04     18.61      31  6.54E-01
+    4250       7.424E-03       6.851E-05     18.62      31  6.54E-01
+    4500       7.382E-03       8.433E-05     18.64      31  6.54E-01
+    4750       8.265E-03       6.603E-05     18.56      31  6.37E-01
+    5000       7.991E-03       3.680E-05     18.56      31  6.37E-01
+    5250       7.527E-03       1.179E-04     18.61      31  6.37E-01
+    5500       7.483E-03       7.082E-05     18.62      31  6.37E-01
+    5750       7.440E-03       6.453E-05     18.63      31  6.37E-01
+    6000       7.398E-03       9.236E-05     18.65      31  6.37E-01
+    6250       7.360E-03       8.421E-05     18.66      31  6.37E-01
+    6500       7.320E-03       8.613E-05     18.68      31  6.37E-01
+    6750       7.248E-03       4.269E-05     18.75      31  6.37E-01
+    7000       6.950E-03       5.214E-05     19.16      31  6.37E-01
+    7250       7.518E-03       7.141E-05     18.61      31  6.21E-01
+    7500       7.479E-03       7.615E-05     18.62      31  6.21E-01
+    7750       7.437E-03       6.177E-05     18.62      31  6.21E-01
+    8000       7.397E-03       8.159E-05     18.64      31  6.21E-01
+
+                  Fitting toroidal plane #  12
+
+ RAXIS =  1.228E+00 ZAXIS =  1.466E-01 R10 =  1.909E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       3.408E-01       3.898E+00     22.72      31  1.00E+00
+     250       1.102E-01       5.189E-01      4.61       8  9.32E-01
+     500       7.497E-02       7.109E-01      5.93      10  8.42E-01
+     750       3.780E-02       5.207E-02      7.78      14  7.80E-01
+    1000       8.912E-02       1.456E+00      8.65      17  7.23E-01
+    1250       9.984E-02       1.560E+00     10.20      20  6.54E-01
+    1500       3.045E-02       6.280E-02     12.71      24  5.91E-01
+    1750       2.920E-02       3.680E-01     13.97      31  5.47E-01
+    2000       8.507E-03       2.577E-04     15.15      31  5.34E-01
+    2250       5.514E-03       4.263E-04     18.78      31  5.34E-01
+    2500       3.335E-03       2.074E-04     18.33      31  5.34E-01
+    2750       2.729E-03       1.246E-04     18.37      31  5.34E-01
+    3000       1.837E-03       1.349E-04     18.83      31  5.34E-01
+    3250       1.529E-03       3.276E-05     18.44      31  5.34E-01
+    3500       1.473E-03       1.913E-05     18.33      31  5.34E-01
+    3739       1.402E-03       9.951E-06     18.41      31  5.34E-01
+
+                  Fitting toroidal plane #  13
+
+ RAXIS =  1.204E+00 ZAXIS =  1.444E-01 R10 =  2.269E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       1.073E-01       5.867E-01     24.74      31  1.00E+00
+     250       4.135E-02       1.554E-02     13.53      17  9.55E-01
+     500       3.271E-03       9.022E-05      8.13      31  9.55E-01
+     580       5.017E-04       8.052E-06      8.32      31  9.55E-01
+
+                  Fitting toroidal plane #  14
+
+ RAXIS =  1.181E+00 ZAXIS =  1.401E-01 R10 =  2.256E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       5.389E-02       5.988E-01     16.11      31  1.00E+00
+     250       5.125E-04       4.119E-04      8.39      31  9.55E-01
+     289       5.054E-04       9.858E-06      8.42      31  9.55E-01
+
+                  Fitting toroidal plane #  15
+
+ RAXIS =  1.159E+00 ZAXIS =  1.338E-01 R10 =  2.219E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       5.262E-02       5.946E-01     16.11      31  1.00E+00
+     250       5.279E-04       2.478E-04      8.20      31  9.55E-01
+     293       5.239E-04       8.949E-06      8.22      31  9.55E-01
+
+                  Fitting toroidal plane #  16
+
+ RAXIS =  1.139E+00 ZAXIS =  1.260E-01 R10 =  1.709E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       4.836E-01       5.267E+00     22.02      31  1.00E+00
+     250       1.950E-01       4.878E-02      4.03       7  9.32E-01
+     500       1.182E-01       2.389E-01      5.62       9  8.42E-01
+     750       6.403E-02       2.672E-02      7.91      12  7.42E-01
+    1000       2.107E-01       3.542E+00      9.70      15  6.70E-01
+    1250       5.334E-02       3.006E-01     10.18      17  6.06E-01
+    1500       2.235E-02       4.328E-02     13.16      21  5.61E-01
+    1750       5.030E-02       7.747E-01     15.67      26  5.34E-01
+    2000       1.808E-02       2.531E-01     16.26      30  5.07E-01
+    2250       7.663E-03       9.582E-02     18.62      31  5.07E-01
+    2500       4.344E-03       1.699E-04     18.71      31  5.07E-01
+    2750       4.075E-03       6.711E-05     19.06      31  5.07E-01
+    3000       3.439E-03       2.104E-04     19.75      31  5.07E-01
+    3250       2.352E-03       6.756E-05     20.20      31  5.07E-01
+    3500       2.286E-03       1.117E-05     20.25      31  5.07E-01
+    3511       2.284E-03       9.910E-06     20.25      31  5.07E-01
+
+                  Fitting toroidal plane #  17
+
+ RAXIS =  1.121E+00 ZAXIS =  1.169E-01 R10 =  2.146E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       5.135E-02       6.145E-01     16.04      31  1.00E+00
+     250       2.930E-03       4.669E-02      6.29      24  9.55E-01
+     376       5.237E-04       6.531E-06      8.14      31  9.55E-01
+
+                  Fitting toroidal plane #  18
+
+ RAXIS =  1.104E+00 ZAXIS =  1.065E-01 R10 =  1.114E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       8.559E-01       8.327E+00     22.25      31  1.00E+00
+     250       3.837E-01       7.144E-01      4.39       7  9.32E-01
+     500       1.449E-01       9.390E-02      6.02      10  8.86E-01
+     750       1.158E-01       8.803E-01      8.37      13  7.61E-01
+    1000       7.007E-02       9.457E-02     10.21      18  7.05E-01
+    1250       5.582E-02       7.428E-01     12.51      23  6.06E-01
+    1500       2.558E-02       1.517E-01     12.83      27  5.47E-01
+    1750       1.899E-02       4.522E-03     14.05      31  5.20E-01
+    2000       1.689E-02       4.506E-04     15.00      31  5.07E-01
+    2250       1.683E-02       1.022E-04     15.08      31  4.95E-01
+    2500       1.673E-02       7.045E-05     15.22      31  4.95E-01
+    2750       1.656E-02       1.115E-04     16.09      31  4.95E-01
+    3000       1.626E-02       2.741E-04     17.52      31  4.95E-01
+    3250       1.127E-02       9.837E-04     19.80      31  4.95E-01
+    3500       8.858E-03       1.965E-04     20.58      31  4.95E-01
+    3750       7.841E-03       1.044E-04     20.57      31  4.95E-01
+    4000       7.512E-03       3.257E-05     20.59      31  4.95E-01
+    4250       7.230E-03       2.492E-05     20.60      31  4.95E-01
+    4500       7.191E-03       5.745E-05     20.57      31  4.95E-01
+    4750       7.182E-03       2.301E-05     20.56      31  4.95E-01
+    5000       7.145E-03       5.425E-05     20.51      31  4.95E-01
+    5250       7.137E-03       5.226E-05     20.50      31  4.95E-01
+    5500       7.129E-03       5.234E-05     20.49      31  4.95E-01
+    5506       7.129E-03       9.044E-06     20.49      31  4.95E-01
+
+                  Fitting toroidal plane #  19
+
+ RAXIS =  1.089E+00 ZAXIS =  9.523E-02 R10 =  2.082E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       5.115E-02       6.412E-01     15.83      31  1.00E+00
+     250       6.375E-04       1.807E-03      8.78      31  9.55E-01
+     312       5.233E-04       6.975E-06      7.85      31  9.55E-01
+
+                  Fitting toroidal plane #  20
+
+ RAXIS =  1.077E+00 ZAXIS =  8.323E-02 R10 =  2.055E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       5.180E-02       6.638E-01     15.68      31  1.00E+00
+     250       2.415E-03       4.360E-02      5.26      23  9.55E-01
+     457       4.791E-04       5.850E-06      8.64      31  9.55E-01
+
+                  Fitting toroidal plane #  21
+
+ RAXIS =  1.066E+00 ZAXIS =  7.054E-02 R10 =  2.031E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       5.322E-02       6.892E-01     16.94      31  1.00E+00
+     250       2.181E-03       3.747E-02      4.81      22  9.55E-01
+     473       4.846E-04       7.782E-06      8.38      31  9.55E-01
+
+                  Fitting toroidal plane #  22
+
+ RAXIS =  1.057E+00 ZAXIS =  5.721E-02 R10 =  1.579E-01
+
+ ITERATIONS    RMS ERROR    FORCE GRADIENT    <M>    MAX m   DELT
+       1       4.820E-01       4.781E+00     21.94      31  1.00E+00
+     250       1.889E-01       8.581E-01      6.28       9  9.32E-01
+     500       6.313E-02       9.507E-02      7.24      12  8.63E-01
+     750       1.102E-02       3.979E-02      8.39      14  7.80E-01
+    1000       1.597E-02       2.520E-01      8.62      15  7.80E-01
+    1250       1.098E-02       1.583E-01      8.96      18  7.42E-01
+    1500       1.651E-02       2.675E-01      9.41      18  7.42E-01
+    1750       9.489E-03       1.467E-01      9.68      18  7.42E-01
+    2000       5.477E-03       7.295E-02      9.93      18  7.42E-01
+    2250       6.353E-03       9.648E-02     10.21      19  7.42E-01
+    2500       6.076E-03       8.958E-02     10.40      20  7.42E-01
+    2750       2.066E-02       2.749E-01     10.68      23  7.42E-01
+    3000       1.052E-02       1.279E-01     10.63      25  7.23E-01
+    3250       9.957E-03       1.219E-01     10.67      25  7.23E-01
+    3500       7.087E-03       8.411E-02     10.77      25  7.23E-01
+    3750       5.483E-03       6.257E-02     10.88      25  7.23E-01
+    4000       4.412E-03       4.788E-02     10.98      25  7.23E-01
+    4250       4.702E-03       5.197E-02     11.06      25  7.23E-01
+    4500       4.303E-03       4.656E-02     11.14      25  7.23E-01
+    4750       1.305E-02       1.629E-01     11.25      26  7.23E-01
